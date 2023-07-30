@@ -1,16 +1,5 @@
 # quraan_full_application
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot](https://github.com/LogainHamdan/quraan_full_application/blob/49dc9cdf2d8b25d17a609ef5cff34e6c43aa6eef/1.png)
+![screenshot](https://github.com/LogainHamdan/quraan_full_application/blob/49dc9cdf2d8b25d17a609ef5cff34e6c43aa6eef/2.png)
+![screenshot](https://github.com/LogainHamdan/quraan_full_application/blob/49dc9cdf2d8b25d17a609ef5cff34e6c43aa6eef/3.png)
